@@ -16,4 +16,8 @@ information. Hopefully it can be useful...
 Contact:
 hak.0ryx@gmail.com
 
+  Notebook is a large file so I had to comment out all the fields, to run it you'll need some datascience libraries
+and also uncomment the commands. The commands are also labeled and you can change dates and fields likes countries
+regions and colors however you wish to view the data. 
+
 
